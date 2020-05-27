@@ -1,4 +1,4 @@
--- DONT TOUCH
+  -- DONT TOUCH
 local spawned = false
 
 local outfits = {
@@ -272,8 +272,8 @@ menuPool:ControlDisablingEnabled(false)
 
 -- Clockin Coords
 local coords2 = {
-    --{x=2746.02, y=2788.93, z=35.46, h=43.62}, -- Quarry GTA5 Mods
-    {x=318.24, y=-365.27, z=5.46, h=102.01} -- Liberty City
+    {x=2746.02, y=2788.93, z=35.46, h=43.62}, -- Quarry GTA5 Mods
+    --{x=318.24, y=-365.27, z=5.46, h=102.01} -- Liberty City
 }
 
 
